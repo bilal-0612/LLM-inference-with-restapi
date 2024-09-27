@@ -5,8 +5,8 @@
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <project-directory>
+   git clone https://github.com/bilal-0612/LLM-inference-with-restapi
+   cd LLM-inference-with-restapi
    ```
 
 2. Install the dependencies listed in the `requirements.txt` file:
